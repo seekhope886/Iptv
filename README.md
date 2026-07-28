@@ -100,7 +100,7 @@ A high-performance IPTV Player extension for MIT AI2
 
 ---
 
-# [Extension] IPTV & MPEG-TS Stream Player (com.luckyh9h.iptv)
+# [FREE] IPTV & MPEG-TS Stream Player (com.luckyh9h.iptv)
 
 A high-performance IPTV Player extension for MIT App Inventor 2, Kodular, and Niotron. Built with an **Adaptive Dual-Engine Architecture**, it seamlessly switches between Native Android Hardware Decoding for `.m3u8` (HLS) / `.mp4` streams and JavaScript-based MSE decoding via `mpegts.js` for traditional `.ts` live broadcasts. 
 
