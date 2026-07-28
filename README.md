@@ -1,4 +1,5 @@
 # Iptv
+<img width="24" height="24" alt="musical-note" src="https://github.com/user-attachments/assets/30e2b4a6-45e3-49c8-8299-0784aec6c769" />
 A high-performance IPTV Player extension for MIT AI2
 
 # [擴充功能] 萬能 IPTV 與 MPEG-TS 串流播放器 (com.luckyh9h.iptv)
